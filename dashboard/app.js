@@ -113,9 +113,9 @@ function renderValueList(rows) {
       (row) => `
         <div class="value-item">
           <strong>${row.product_name}</strong>
-          <span>${row.brand} • ${currency.format(row.discounted_price)} • ${
+          <span>${row.brand} | ${currency.format(row.discounted_price)} | ${
         row.discount_percentage
-      }% off • ${row.rating} rating</span>
+      }% off | ${row.rating} rating</span>
         </div>
       `
     )

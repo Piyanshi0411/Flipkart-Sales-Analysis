@@ -115,6 +115,14 @@ The dashboard includes:
 - Top value products
 - Product table sorted by value score
 
+## GitHub Pages
+
+After enabling GitHub Pages from repository settings, open the dashboard at:
+
+```text
+https://your-username.github.io/your-repository-name/
+```
+
 ## Analysis Performed
 
 - Data overview and missing value check
