@@ -1,0 +1,49 @@
+product_name,category,brand,actual_price,discounted_price,discount_percentage,rating,rating_count,seller,availability
+Samsung Galaxy M14 5G,Electronics,Samsung,17999,12499,31,4.2,18452,TrueComRetail,In Stock
+Realme Narzo N55,Electronics,Realme,14999,10999,27,4.1,22341,MobileKart,In Stock
+boAt Airdopes 141,Electronics,boAt,4490,1299,71,4.0,98544,SuperComNet,In Stock
+Sony WH-CH520 Headphones,Electronics,Sony,5990,4490,25,4.4,6420,ElectroWorld,In Stock
+HP 15s Laptop,Electronics,HP,58999,42990,27,4.2,3851,TechRetail,In Stock
+Lenovo IdeaPad Slim 3,Electronics,Lenovo,64999,45990,29,4.3,2740,TechRetail,In Stock
+Mi 10000mAh Power Bank,Electronics,Mi,2199,1499,32,4.2,51260,SuperComNet,In Stock
+Canon Pixma Printer,Electronics,Canon,6999,4899,30,4.1,2193,OfficeStore,In Stock
+Men Solid Casual Shirt,Fashion,Roadster,1899,699,63,4.0,10234,FashionHub,In Stock
+Women Printed Kurta,Fashion,Aurelia,1999,799,60,4.2,8241,StyleKart,In Stock
+Men Running Shoes,Fashion,Puma,4999,2499,50,4.1,15230,ShoeWorld,In Stock
+Women Sneakers,Fashion,Campus,2999,1299,57,4.0,11980,ShoeWorld,In Stock
+Analog Watch,Fashion,Fastrack,3495,2097,40,4.3,7642,WatchStore,In Stock
+Leather Wallet,Fashion,WildHorn,1499,499,67,4.1,18320,FashionHub,In Stock
+Sunglasses,Fashion,VINCENT CHASE,1999,899,55,4.0,6894,LensSeller,In Stock
+Backpack,Fashion,Safari,2499,999,60,4.2,14230,BagHouse,In Stock
+Mixer Grinder,Appliances,Prestige,5499,3299,40,4.1,7430,KitchenKart,In Stock
+Air Fryer,Appliances,Philips,12995,8499,35,4.3,3841,KitchenKart,In Stock
+Washing Machine,Appliances,LG,32990,24990,24,4.4,4210,ApplianceWorld,In Stock
+Double Door Refrigerator,Appliances,Whirlpool,38990,29990,23,4.2,3165,ApplianceWorld,In Stock
+Water Purifier,Appliances,Kent,18999,11999,37,4.1,5289,HomeNeeds,In Stock
+Ceiling Fan,Appliances,Crompton,3299,2299,30,4.0,9921,HomeNeeds,In Stock
+Induction Cooktop,Appliances,Pigeon,3995,1699,57,4.0,21544,KitchenKart,In Stock
+Electric Kettle,Appliances,Havells,2495,1399,44,4.2,12331,KitchenKart,In Stock
+Wooden Study Table,Furniture,Wakefit,8999,5499,39,4.1,2145,FurnitureMart,In Stock
+Office Chair,Furniture,Green Soul,12999,7999,38,4.3,5021,FurnitureMart,In Stock
+Queen Size Bed,Furniture,Nilkamal,24999,15999,36,4.0,1288,HomeDecor,In Stock
+Shoe Rack,Furniture,DeckUp,5999,2999,50,3.9,1876,HomeDecor,In Stock
+Bookshelf,Furniture,Trevi,7999,4499,44,4.1,1640,FurnitureMart,In Stock
+Bean Bag,Furniture,Sattva,3999,1899,53,3.8,2541,HomeDecor,In Stock
+Coffee Table,Furniture,Urban Ladder,14999,8999,40,4.2,971,FurnitureMart,In Stock
+TV Unit,Furniture,Bluewud,10999,6499,41,4.0,1156,HomeDecor,In Stock
+Face Wash,Beauty,Himalaya,185,148,20,4.2,34520,BeautyStore,In Stock
+Matte Lipstick,Beauty,Lakme,799,399,50,4.1,18234,BeautyStore,In Stock
+Hair Dryer,Beauty,Philips,1995,1199,40,4.3,9210,BeautyStore,In Stock
+Perfume,Beauty,Fogg,899,399,56,4.0,22390,BeautyStore,In Stock
+Shampoo,Beauty,Dove,699,499,29,4.2,15900,BeautyStore,In Stock
+Sunscreen,Beauty,Neutrogena,650,487,25,4.3,8750,BeautyStore,In Stock
+Moisturizer,Beauty,Nivea,449,299,33,4.1,10560,BeautyStore,In Stock
+Trimmer,Beauty,Philips,2495,1499,40,4.2,28710,BeautyStore,In Stock
+Cricket Bat,Sports,MRF,4999,2999,40,4.1,4021,SportsHub,In Stock
+Yoga Mat,Sports,Boldfit,1499,599,60,4.2,13200,SportsHub,In Stock
+Dumbbell Set,Sports,Lifelong,3999,1999,50,4.0,7340,FitnessKart,In Stock
+Football,Sports,Nivia,999,549,45,4.1,8920,SportsHub,In Stock
+Badminton Racket,Sports,Yonex,2499,1599,36,4.2,5430,SportsHub,In Stock
+Treadmill,Sports,PowerMax,59999,38999,35,4.1,940,FitnessKart,In Stock
+Cycling Helmet,Sports,Leader,1499,849,43,4.0,2788,SportsHub,In Stock
+Protein Powder,Sports,MuscleBlaze,3999,2499,38,4.2,11890,FitnessKart,In Stock
